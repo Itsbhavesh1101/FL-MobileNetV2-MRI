@@ -149,3 +149,4 @@
 [2025-08-18T18:36:27] Refactoring & Code Review - Implement secure communication layer (TLS) between federated server and clients. (Commit 9/11)
 [2025-08-18T19:48:29] Refactoring & Code Review - Implement secure communication layer (TLS) between federated server and clients. (Commit 10/11)
 [2025-08-18T21:00:18] Refactoring & Code Review - Implement secure communication layer (TLS) between federated server and clients. (Commit 11/11)
+[2025-08-22T09:00:26] Bug Fix & Pull Request Creation - Create client-side data partitioner to simulate non-IID data distribution among nodes. (Commit 1/8)
