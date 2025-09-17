@@ -162,3 +162,4 @@
 [2025-08-23T15:00:47] API Integration & Development - Add evaluation script to test aggregated global model performance on test dataset. (Commit 3/5)
 [2025-08-23T18:00:04] API Integration & Development - Add evaluation script to test aggregated global model performance on test dataset. (Commit 4/5)
 [2025-08-23T21:00:47] API Integration & Development - Add evaluation script to test aggregated global model performance on test dataset. (Commit 5/5)
+[2025-09-17T09:00:03] Model Training & Validation - Conduct experiments comparing federated model accuracy to centralized training baseline. (Commit 1/8)
