@@ -281,3 +281,4 @@
 [2025-10-06T18:36:59] Refactoring & Code Review - Implement differential privacy constraints on client model weights before transmission. (Commit 9/11)
 [2025-10-06T19:48:59] Refactoring & Code Review - Implement differential privacy constraints on client model weights before transmission. (Commit 10/11)
 [2025-10-06T21:00:13] Refactoring & Code Review - Implement differential privacy constraints on client model weights before transmission. (Commit 11/11)
+[2025-10-07T09:00:30] Model Training & Validation - Conduct experiments comparing federated model accuracy to centralized training baseline. (Commit 1/6)
