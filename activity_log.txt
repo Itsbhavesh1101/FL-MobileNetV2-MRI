@@ -297,3 +297,4 @@
 [2025-12-16T18:20:16] Refactoring & Code Review - Implement secure communication layer (TLS) between federated server and clients. (Commit 8/10)
 [2025-12-16T19:39:39] Refactoring & Code Review - Implement secure communication layer (TLS) between federated server and clients. (Commit 9/10)
 [2025-12-16T21:00:49] Refactoring & Code Review - Implement secure communication layer (TLS) between federated server and clients. (Commit 10/10)
+[2025-12-17T09:00:17] API Integration & Development - Set up federated learning simulation environment using Flower (flwr) framework. (Commit 1/12)
