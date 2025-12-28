@@ -381,3 +381,4 @@
 [2025-12-27T21:00:06] Feature Implementation - Create client-side data partitioner to simulate non-IID data distribution among nodes. (Commit 7/7)
 [2025-12-28T09:00:40] Refactoring & Code Review - Write custom PyTorch training function for federated clients with localized data. (Commit 1/5)
 [2025-12-28T12:00:15] Refactoring & Code Review - Write custom PyTorch training function for federated clients with localized data. (Commit 2/5)
+[2025-12-28T15:00:08] Refactoring & Code Review - Write custom PyTorch training function for federated clients with localized data. (Commit 3/5)
