@@ -530,3 +530,4 @@
 [2026-04-16T15:00:06] Testing & CI/CD pipeline configuration - Optimize model size, convert PyTorch model to TensorRT for edge device compatibility. (Commit 3/5)
 [2026-04-16T18:00:35] Testing & CI/CD pipeline configuration - Optimize model size, convert PyTorch model to TensorRT for edge device compatibility. (Commit 4/5)
 [2026-04-16T21:00:46] Testing & CI/CD pipeline configuration - Optimize model size, convert PyTorch model to TensorRT for edge device compatibility. (Commit 5/5)
+[2026-04-17T09:00:55] Documentation & README update - Create documentation on federated architecture, dataset partitions, and training progress charts. (Commit 1/11)
