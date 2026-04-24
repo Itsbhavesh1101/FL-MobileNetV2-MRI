@@ -49,12 +49,11 @@ FL-MobileNetV2-MRI/
 │   └── IMG-*.jpg                     # Various outputs and plots
 ├── results/
 │   └── metrics.txt                   # Detailed round-by-round training metrics
-├── mobilenetv2-bt-classification.ipynb # Main Jupyter Notebook with training code
 └── README.md                         # This file
 ```
 
-## Getting Started
+## Code Availability
 
-1. Clone the repository.
-2. Install the necessary dependencies (e.g., standard ML libraries like TensorFlow/PyTorch, numpy, pandas, scikit-learn).
-3. Run the Jupyter Notebook `mobilenetv2-bt-classification.ipynb` to execute the federated training cycle.
+> **Notice:** The source code for this project is temporarily unavailable in this public repository because the manuscript detailing this work is currently **under review for publication**. The complete codebase will be open-sourced and published here immediately following the acceptance of the paper.
+
+In the meantime, you can explore the `results/` directory for detailed round-by-round training metrics and the `assets/` directory for architectural diagrams.
